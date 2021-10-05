@@ -1,6 +1,6 @@
 # sg - PySimpleGUI
 
-En PySimpleGUI el desarrolo de apps es muy sencillo, con el podrás crear simple y bonitas 
+En PySimpleGUI el desarrolo de apps es muy sencillo, con el podrás crear simples y bonitas 
 apps sin necesidad de tener mucha experiencia.
 
 # Empezando
@@ -86,7 +86,7 @@ que pusimos en el bucle, al cumplirse esa condición se ejecutará el código qu
 
 **resultado**
 
-[example2](./button-key.png)
+[example2](./button_key.png)
 
 Estás pagínas se llenarán con el tiempo, gracias por leer, si desea colaborar escribame 
 
