@@ -86,7 +86,38 @@ que pusimos en el bucle, al cumplirse esa condición se ejecutará el código qu
 
 **resultado**
 
-[example2](./button_key.png)
+![example2](./button_key.png)
+
+### Código completo:
+
+```python
+
+#!/data/data/com.termux/files/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import PySimpleGUI as sg
+
+layout = [
+
+           [sg.Text("Hello World!"), sg.Text(" -- example")], 
+           [sg.Button("Push Me!", key='-MYKEY-')],
+     
+            ]
+
+myapp = sg.Window("Window Title", layout, resizable=True)
+
+while True:
+	event, values = myapp.read()
+	if event == sg.WINDOW_CLOSED:
+		break
+		
+	if event == '-MYKEY-':
+		print("Hello World!")
+		
+	else:
+		print("Error\n")
+		
+```
 
 Estás pagínas se llenarán con el tiempo, gracias por leer, si desea colaborar escribame 
 
