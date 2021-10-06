@@ -1,6 +1,6 @@
 # sg - PySimpleGUI
 
-En PySimpleGUI el desarrolo de apps es muy sencillo, con el podrás crear simples y bonitas 
+En PySimpleGUI el desarrollo de apps es muy sencillo, con el podrás crear simples y bonitas 
 apps sin necesidad de tener mucha experiencia.
 
 # Empezando
