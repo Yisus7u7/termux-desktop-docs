@@ -18,6 +18,7 @@ lenguages más recomendados
 - [appJar](http://appjar.info/) (perfecto para novatos que quieren algo simple, usa tkinter como backend)
 - [pyfltk](https://pyfltk.sourceforge.io/docs/CH0_Preface.html) (Algo viejo pero tiene lo suyo)
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) (usa tkinter como backend, se destaca por ser util, simple y hermoso.)
+- [PyQt5](https://github.com/PyQt) (El framework Qt portado a Python)
 
 ## Ruby 
 
@@ -66,6 +67,11 @@ pip install pyfltk
 ```bash
 pkg install python-tkinter
 pip install PySimpleGUI
+```
+
+```bash
+apt install python
+pip install PyQt5
 ```
 
 ## Ruby 
