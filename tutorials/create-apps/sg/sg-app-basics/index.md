@@ -121,7 +121,7 @@ while True:
 
 Estás pagínas se llenarán con el tiempo, gracias por leer, si desea colaborar escribame 
 
-`jesuspixel5@gmail.com`
+`yisus7u7v@gmail.com`
 
 O telegram: 
 
